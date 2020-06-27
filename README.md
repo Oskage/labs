@@ -1,4 +1,4 @@
 # Repository to store laboratory works
 
-measuring_complexity - platform for measuring time complexity of different algorithmes
+measuring_complexity - platform for measuring time complexity of different algorithmes \n
 simple_text_database - a couple of classes that demonstrate storing data in files in binary format, and some other logic
